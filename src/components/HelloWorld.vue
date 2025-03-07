@@ -38,7 +38,7 @@ const msg = 'Vite + Vue + Unocss'
     {{ msg }}
   </h1>
 
-  <div class="card">
+  <div class="p-2em">
     <button
       type="button"
       @click="count++"
