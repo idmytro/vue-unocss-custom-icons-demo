@@ -7,7 +7,6 @@ const msg = 'Vite + Vue + Unocss'
 </script>
 
 <template>
-  <!--  text-0 leading-0 -->
   <div class="flex items-center justify-center gap-48px">
     <a
       href="https://vite.dev"
